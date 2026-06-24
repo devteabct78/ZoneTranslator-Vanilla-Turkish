@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: ZoneTranslator-Vanilla-Turkish
+## Notes: Minimap ve ekran ortasi bolge isimlerini Turkcelestirir.
+## Author: Fuat
+## Version: 1.0
+
+ZoneData.lua
+ZoneTranslator.lua
