@@ -918,4 +918,6 @@ ZoneTranslator_ZoneData = {
 ["Zul'Gurub"] = "Zul'Gurub",
 ["Zul'Mashar"] = "Zul'Mashar",
 ["Zuuldaia Ruins"] = "Zuuldaia Harabeleri",
+--OctoWow Custom Zones
+
 }
