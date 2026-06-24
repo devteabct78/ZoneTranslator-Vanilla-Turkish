@@ -374,6 +374,7 @@ ZoneTranslator_ZoneData = {
 ["Lake Nazferiti"] = "Nazferiti Gölü",
 ["Lakeridge Highway"] = "Gölkenarı Geçidi",
 ["Lakeshire"] = "Gölbölgesi",
+["Lakeshire Inn"] = "Gölbölgesi Hanı",
 ["Lakeshire Town Hall"] = "Gölbölgesi Belediye Binası",
 ["Lakkari Tar Pits"] = "Lakkari Katran Çukurları",
 ["Land's End Beach"] = "Dünyanın Sonu Kumsalı",
