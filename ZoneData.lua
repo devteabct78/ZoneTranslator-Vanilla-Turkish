@@ -639,6 +639,7 @@ ZoneTranslator_ZoneData = {
 ["Stormpike Graveyard"] = "Fırtınamızrağı Mezarlığı",
 ["Stormrage Barrow Dens"] = "Fırtınaöfkesi Höyük İnleri",
 ["Stormwind"] = "Fırtınayeli",
+["Stormwind City"] = "Fırtınayeli Şehri",
 ["Stormwind Gate"] = "Fırtınayeli Kapısı",
 ["Stormwind Keep"] = "Fırtınayeli Kalesi",
 ["Strahnbrad"] = "Strahnbrad",
