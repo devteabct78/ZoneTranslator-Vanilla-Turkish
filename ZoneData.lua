@@ -166,7 +166,7 @@ ZoneTranslator_ZoneData = {
 ["Deadman's Crossing"] = "Ölü Adam Geçidi",
 ["Deadwind Pass"] = "Deadwind Geçidi",
 ["Deadwood Village"] = "Deadwood Köyü",
-["Deathknell"] = "Deathknell",
+["Deathknell"] = "Ölümçanı",
 ["Deep Elem Mine"] = "Derin Elem Madeni",
 ["Demon Fall Canyon"] = "İblis Düşüşü Kanyonu",
 ["Demon Fall Ridge"] = "İblis Düşüşü Sırtı",
@@ -920,6 +920,8 @@ ZoneTranslator_ZoneData = {
 ["Zul'Gurub"] = "Zul'Gurub",
 ["Zul'Mashar"] = "Zul'Mashar",
 ["Zuuldaia Ruins"] = "Zuuldaia Harabeleri",
+["Shadow Grave"] = "Gölge Mezarlık",
+
 --OctoWow Custom Zones
 
 }
