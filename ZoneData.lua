@@ -922,6 +922,7 @@ ZoneTranslator_ZoneData = {
 ["Zul'Mashar"] = "Zul'Mashar",
 ["Zuuldaia Ruins"] = "Zuuldaia Harabeleri",
 ["Shadow Grave"] = "Gölge Mezarlık",
+["Stendel's Pond"] = "Stendel Göleti",
 
 --OctoWow Custom Zones
 
