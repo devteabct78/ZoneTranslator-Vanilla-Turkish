@@ -280,7 +280,7 @@ ZoneTranslator_ZoneData = {
 ["Golakka Hot Springs"] = "Golakka Kaplıcaları",
 ["Gold Coast Quarry"] = "Altın Kıyısı Taş Ocağı",
 ["Gold Road"] = "Altın Yol",
-["Goldshire"] = "Goldshire",
+["Goldshire"] = "Altınbucak",
 ["Gordok Commons"] = "Gordok Meydanı",
 ["Gordok's Seat"] = "Gordok'un Tahtı",
 ["Gordunni Outpost"] = "Gordunni Karakolu",
@@ -925,5 +925,6 @@ ZoneTranslator_ZoneData = {
 ["Stendel's Pond"] = "Stendel Göleti",
 
 --OctoWow Custom Zones
-
+["Northwind"] = "Kuzeyrüzgarı",
+["Merchant's Highroad"] = "Tüccar Anayolu",
 }
