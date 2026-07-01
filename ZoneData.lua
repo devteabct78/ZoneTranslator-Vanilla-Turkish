@@ -939,4 +939,7 @@ ZoneTranslator_ZoneData = {
 ["Lieutenant Bravestorm"]="Teğmen Cesurfırtına",
 ["The Dark Knight"]="Kara Şövalye",
 ["Kul Tiran Warhorse"]="Kul Tiras Savaş Atı",
+["Auburn Forest"] = "Kızılkahve Ormanı",
+["Mildenhall Horse Farm"] = "Mildenhall At Çiftliği",
+["Crawford Winery"] = "Crawford Şaraphanesi",
 }
