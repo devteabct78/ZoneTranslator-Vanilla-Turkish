@@ -927,4 +927,6 @@ ZoneTranslator_ZoneData = {
 --OctoWow Custom Zones
 ["Northwind"] = "Kuzeyrüzgarı",
 ["Merchant's Highroad"] = "Tüccar Anayolu",
+["Amberpaw Hideout"] = "Kehribarpençe Sığınağı",
+["Ambershire"] = "Kehribardiyar",
 }
