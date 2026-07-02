@@ -942,4 +942,5 @@ ZoneTranslator_ZoneData = {
 ["Auburn Forest"] = "Kızılkahve Ormanı",
 ["Mildenhall Horse Farm"] = "Mildenhall At Çiftliği",
 ["Crawford Winery"] = "Crawford Şaraphanesi",
+["The Plump Pumpkin"] = "Tombul Balkabağı",
 }
